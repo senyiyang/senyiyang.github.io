@@ -15,14 +15,14 @@ header:
 footer:
  name: "I am Senyi. "
  bio: "This website serves as a way to showcase my favorite pieces, particularly automotive content."
- github: "You can access the full portfolio here at https://drive.google.com/drive/folders/1n88P5cqBCO6W1-yfPcmKo9X6iNqht80E?usp=sharing"
+ github: "You can access the full portfolio and complete shoots here at https://drive.google.com/drive/folders/1n88P5cqBCO6W1-yfPcmKo9X6iNqht80E?usp=sharing"
 web_design: "AJ"
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
 exif: '[{"tag": "Model", "icon": "camera-retro"}, {"tag": "FNumber", "icon": "dot-circle-o"}, {"tag": "ExposureTime", "icon": "clock-o"}, {"tag": "ISOSpeedRatings", "icon": "info-circle"}]'
 social_urls:
-  twitter: "https://www.twitter.com/ram__patra"
-  instagram: "https://www.instagram.com/ram_patra"
-  dribbble: "https://dribbble.com/rampatra"
-  linkedin: "https://in.linkedin.com/in/ram-patra"
-  github: "https://www.github.com/rampatra"
+  #twitter: "https://www.twitter.com/ram__patra"
+  instagram: "https://www.instagram.com/senyi.jpg"
+  #dribbble: "https://dribbble.com/rampatra"
+  linkedin: "https://in.linkedin.com/in/senyi-yang-343106268"
+  #github: "https://www.github.com/rampatra"
