@@ -15,7 +15,7 @@ header:
 footer:
  name: "I am Senyi. "
  bio: "This website serves as a way to showcase my favorite pieces, particularly automotive content."
- github: "You can access the full portfolio and complete shoots here at"
+ github: ""
 web_design: "Senyi Yang"
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
